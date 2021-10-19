@@ -1,6 +1,6 @@
 # Consistency
 
-◘ Oolving everything is not necessary but  solving constantly is prime.
+◘ Solving everything is not necessary but solving constantly is prime.
 
 ◘ One should not called itself a coder but a writer who can write in 0 and 1. 
 
