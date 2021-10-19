@@ -1,0 +1,9 @@
+How to submit ->
+
+1. Fork this repo.
+2. Clone this repo 
+3.a -> inside Task<N> make your folder named <username>  (N-no. of task) 
+3.b -> like <xyz> then add your code for each problem statement.
+
+We'll accept this all Pull request as the due time is passed. So that no one can copy from each other. 
+P.S this is for self devlopment don't copy. 
