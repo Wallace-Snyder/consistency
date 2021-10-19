@@ -1,0 +1,16 @@
+Task once assigned, submit it within time Period.
+19-10-2021 - 21-10-2021
+
+Before going to complicated dsa or algorithm we should first strong our grip on the basic. So for this first time question are following.
+
+Question -> 
+
+1. https://leetcode.com/problems/sort-colors/
+2. https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+3. https://leetcode.com/problems/merge-sorted-array/
+4. https://leetcode.com/problems/circular-array-loop/
+5. https://leetcode.com/problems/longest-mountain-in-array/
+6. https://leetcode.com/problems/longest-mountain-in-array/
+7. https://leetcode.com/problems/long-pressed-name/
+8. https://leetcode.com/problems/interval-list-intersections/
+
